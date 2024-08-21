@@ -1,0 +1,63 @@
+{
+  "wifiname": [
+    {
+      "id": "1",
+      "url": "http://localhost:3000/dhanbad",
+      "wifi": "hello",
+      "password": "John Doe",
+      "place": "Dhanbad"
+    },
+    {
+      "id": "2",
+      "url": "http://localhost:3000/gaya",
+      "wifi": "newHello",
+      "password": "Jyoti Rani",
+      "place": "Gaya"
+    },
+    {
+      "id": "3",
+      "url": "http://localhost:3000/bangalore",
+      "wifi": "oldHello",
+      "password": "Black",
+      "place": "Bangalore"
+    }
+  ],
+  "email": [
+    {
+      "id": "0309",
+      "email": ""
+    },
+    {
+      "id": "9398",
+      "email": "s@gmail.comff"
+    },
+    {
+      "id": "c63b",
+      "email": "ss@gmail.com"
+    },
+    {
+      "id": "0377",
+      "email": "sagar@gmail.com"
+    },
+    {
+      "id": "c04e",
+      "email": "newh@gmail.com"
+    },
+    {
+      "id": "ff76",
+      "email": "hh@gmail.com"
+    },
+    {
+      "id": "3b3f",
+      "email": "sagar@gmail1.com"
+    },
+    {
+      "id": "386c",
+      "email": "new2@gmail.com"
+    },
+    {
+      "id": "b79b",
+      "email": "newnew@gmail.com"
+    }
+  ]
+}
